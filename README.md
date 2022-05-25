@@ -1,14 +1,14 @@
-<h1 align="center" border-bottom="none"><b>Hello there, I'm David</h1>
+<h1 align="center" border-bottom="none"><b>About Me</h1>
 
 <p>
-  <h4 align="center"><b>I'm a developer that likes to work on all types of projects. Reach out to me and let's see what kind of cool things we can build! Checkout my social links below.</b></h4>
+  <h4 align="center"><b>I'm a developer that likes to work on all frontend and backend. Reach out to me and let's see what kind of cool things we can build together! Checkout my social links below.</b></h4>
 </p>
 <p align="center">
 <br>
 <a href="mailto:davidpanesiu@gmail.com?subject=Hi%20David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/dpandev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
-<a href="https://dpandev-dusky.vercel.app/"><img src="https://img.shields.io/badge/site-494949?style=for-the-badge&logo=dev.to&logoColor=white" alt="My Personal Site" /></a>&nbsp;
+<a href="https://dpandev.vercel.app/"><img src="https://img.shields.io/badge/site-494949?style=for-the-badge&logo=dev.to&logoColor=white" alt="My Personal Site" /></a>&nbsp;
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,8 +46,10 @@
   </div>
 </div>&nbsp;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">&nbsp;
-<p align="center">
+<div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dpandev&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dpandev&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
-</p>
+<!-- ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpandev&show_icons=true&theme=nightowl) -->
+
+</div>
