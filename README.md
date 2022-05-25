@@ -1,7 +1,7 @@
 <h1 align="center" border-bottom="none"><b>About Me</h1>
 
 <p>
-  <h4 align="center"><b>I'm a developer that likes to work on all frontend and backend. Reach out to me and let's see what kind of cool things we can build together! Checkout my social links below.</b></h4>
+  <h4 align="center"><b>I'm a developer that likes to work on frontend and backend. Reach out to me and let's see what kind of cool things we can build together! Checkout my social links below.</b></h4>
 </p>
 <p align="center">
 <br>
